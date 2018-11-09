@@ -1,2 +1,4 @@
 # hello-world
-Cliched
+
+Hi all,
+This is me saying hello to the world!
